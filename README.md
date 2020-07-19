@@ -7,7 +7,7 @@ I'm a developer advocate at [IBM](https://developer.ibm.com). I advocate for the
 
 - 🌏 I live in Sydney, Australia
 - 🔭 I’m currently working on yet another [ESP32 Keyboard and Mouse project](https://github.com/rampadc/esp32-kbm), aimed to be the most feature complete with lots of features
-- 🌱 I’m currently learning Bluetooth Low Energy protocols and Event-driven architecture
+- 🌱 I’m currently learning Event-driven architecture and re-learning C++
 - 💬 Ask me about IBM, DevOps, IoT and Javascript/Typescript
 - 📫 How to reach me: [@congxdev](https://twitter.com/congxdev)
 - 😄 Pronouns: he/him
