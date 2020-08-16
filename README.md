@@ -6,7 +6,7 @@
 I'm a developer advocate at [IBM](https://developer.ibm.com). I advocate for the developer experience and my favourite platform for deployment is OpenShift. Its UX for devs is Amazing ⚡️! I code in C and Typescript, and ocassionally Javascript if I have to. In my spare time, I design PCBs and embedded firmware for my keyboard and audio projects.
 
 - 🌏 I live in Sydney, Australia
-- 🌱 I’m currently learning Event-driven architecture and re-learning C++
+- 🌱 I’m currently learning Elixir and Ansible
 - 💬 Ask me about IBM, DevOps, IoT and Javascript/Typescript
 - 📫 How to reach me: [@congxdev](https://twitter.com/congxdev)
 - 😄 Pronouns: he/him
