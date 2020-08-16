@@ -10,4 +10,4 @@ I'm a developer advocate at [IBM](https://developer.ibm.com). I advocate for the
 - 💬 Ask me about IBM, DevOps, IoT and Javascript/Typescript
 - 📫 How to reach me: [@congxdev](https://twitter.com/congxdev)
 - 😄 Pronouns: he/him
-- 🎧 Listening to: BOL4
+- 🎧 Listening to: Nina Simone
