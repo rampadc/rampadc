@@ -7,7 +7,7 @@ I'm a developer advocate at [IBM](https://developer.ibm.com). I advocate for the
 
 - 🌏 I live in Sydney, Australia
 - 🌱 I’m currently learning Elixir and Ansible
-- 💬 Ask me about IBM, DevOps, IoT and Javascript/Typescript
+- 💬 Ask me about any tech things
 - 📫 How to reach me: [@congxdev](https://twitter.com/congxdev)
 - 😄 Pronouns: he/him
-- 🎧 Listening to: Nina Simone
+- 🎧 Listening to: Steven Universe tunes
