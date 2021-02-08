@@ -8,6 +8,6 @@ I'm a developer advocate at [IBM](https://developer.ibm.com). I advocate for the
 - 🌏 I live in Sydney, Australia
 - 🌱 I’m currently learning Elixir and Ansible
 - 💬 Ask me about any tech things
-- 📫 How to reach me: [@congxdev](https://twitter.com/congxdev)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cong-ng)
 - 😄 Pronouns: he/him
-- 🎧 Listening to: Steven Universe tunes
+- 🎧 Listening to: Steven Universe tunes <I need to automate this>
