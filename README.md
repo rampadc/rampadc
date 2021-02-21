@@ -3,11 +3,10 @@
 
 ---
 
-I'm a developer advocate at [IBM](https://developer.ibm.com). I advocate for the developer experience and my favourite platform for deployment is OpenShift. Its UX for devs is Amazing ⚡️! I code in C and Typescript, and ocassionally Javascript if I have to. In my spare time, I design PCBs and embedded firmware for my keyboard and audio projects.
+I'm a cloud engineer at [IBM](https://developer.ibm.com). My favourite platform for deployment is OpenShift. Its UX for devs is Amazing ⚡️! I code in Swift, Javascript (and Typescript), Python and, when I have to, Java. In my spare time, I like to read manga and learn new things.
 
 - 🌏 I live in Sydney, Australia
-- 🌱 I’m currently learning Elixir and Ansible
 - 💬 Ask me about any tech things
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cong-ng)
 - 😄 Pronouns: he/him
-- 🎧 Listening to: Steven Universe tunes <I need to automate this>
+- 🎧 Listening to: RUINER music
