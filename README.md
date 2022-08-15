@@ -9,4 +9,3 @@ I'm a cloud engineer at [IBM](https://developer.ibm.com). My favourite platform 
 - 💬  Ask me about any tech things
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/cong-ng)
 - 😄  Pronouns: he/him
-- 🎧  Listening to: RUINER music
