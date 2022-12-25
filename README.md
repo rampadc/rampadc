@@ -3,7 +3,7 @@
 
 ---
 
-I'm a cloud engineer at [IBM](https://developer.ibm.com). My favourite platform for deployment is OpenShift. Its UX for devs is Amazing ⚡️! I code in Swift, Javascript (and Typescript), Python and, when I have to, Java. In my spare time, I like to read manga and learn new things.
+I'm a cloud engineer. My favourite platform for deployment is OpenShift. Its UX for devs is Amazing ⚡️! I code in Swift, Javascript (and Typescript), Python and, when I have to, Java. In my spare time, I like to read manga and learn new things.
 
 - 🌏  I live in Sydney, Australia
 - 💬  Ask me about any tech things
