@@ -3,7 +3,7 @@
 
 ---
 
-I'm a cloud engineer. My favourite platform for deployment is OpenShift. Its UX for devs is Amazing ⚡️! I code in Swift, Javascript (and Typescript), Python and, when I have to, Java. In my spare time, I like to read manga and learn new things.
+I'm a product owner. My favourite platform for deployment is Red Hat OpenShift. Its UX for devs is Amazing ⚡️! I code in Rust 🦀, Typescript, Python and lots of YAML. In my spare time, I like to read manga and learn new things.
 
 - 🌏  I live in Sydney, Australia
 - 💬  Ask me about any tech things
