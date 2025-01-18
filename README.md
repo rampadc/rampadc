@@ -1,11 +1,5 @@
-<h1 align="center">🚀 Hi, I'm Cong Nguyen 🚀</h1>
-<h4 align="center"><a href="https://twitter.com/congxdev">Twitter</a> &bull; <a href="https://congx.dev">Blog</a> &bull; <a href="https://www.linkedin.com/in/cong-ng/">LinkedIn</a></h4>
+Hi, I'm Cong and I like to apply tech to enrich my daily life.
 
----
+In spirit, I am a galah 🦜. There isn't an Apple emoji for me, so let me describe myself for you. I'm a rose-breasted cockatoo, with bright pink feathers that make me quite the site in Australia's skies.
 
-I'm a product owner. My favourite platform for deployment is Red Hat OpenShift. Its UX for devs is Amazing ⚡️! I code in Rust 🦀, Typescript, Python and lots of YAML. In my spare time, I like to read manga and learn new things.
-
-- 🌏  I live in Sydney, Australia
-- 💬  Ask me about any tech things
-- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/cong-ng)
-- 😄  Pronouns: he/him
+Fun fact: My name comes from an Aboriginal word meaning "noisy fellow", this makes me wonder why my dev team gave me a "gallah" persona all those years ago, but it stucked with me till now because it's fun. Daily, I love to socialise and hang out with my flock, squawking happily as we search for delicious seeds and fruits.
